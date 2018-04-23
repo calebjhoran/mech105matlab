@@ -1,5 +1,6 @@
 # mech105matlab
-A compilation of MATLAB functions I created during the course MECH 105 (w/ Dr. B)
+Over the course of this semester I was instructed to code several MATLAB funcitons to complete different tasks. This repository is a compilation of those MATLAB functions I created during MECH 105 (w/ Dr. B)
 
-testing adding another line of text
-test #2
+## Function Definitions
+
+
